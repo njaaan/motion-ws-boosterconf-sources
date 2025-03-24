@@ -33,6 +33,10 @@
 - [Hsin-Fang Wang: “From Breakdancer to Accessibility Champion: A design-for-Motion-Sensitivity Story” (Nov 9, 2022)](https://www.intuit.com/blog/innovation/from-breakdancer-to-accessibility-champion-a-design-for-motion-sensitivity-story/)  
 [Archive.org-Link](https://web.archive.org/web/20250217132155/https://www.intuit.com/blog/social-responsibility/from-breakdancer-to-accessibility-champion-a-design-for-motion-sensitivity-story/)
 
+### Quotes from slides came from those great AXE-Con-Talks
+- [Foster, Seneca; Sharma, Ajay: “The Usability Gap: Why Accessibility does not always mean usable” (2025)](https://www.youtube.com/watch?v=XSPxwOqQGZ4)
+
+- [Sumner, Melanie: “But why??!” (2025)](https://www.youtube.com/watch?v=PooU_zo3sqE) 
 
 ### Text with EEA (European Accessibility Act) relevance:
 
