@@ -66,11 +66,12 @@ Either no unnecessary animations from interactions at all,
 or each animation that is not essential can be disabled, ideally globally.
 
 ---
-Note about motion sickness and WCAG:  
-Those guidelines define what we understand as passing some accessibility tests or not. Usually level A is understood as “the bare minimum”, AA as “this is what you need to fulfill to be WCAG compliant” and AAA as “the gold standard that is often more of an idea than 100% achievable”.
-In this case, we strongly urge you to still make sure that your website/app passes the 2.3.3 requirement, even though it is labeled AAA. One reason is, that it doesn’t make sense for us, to have the user not be confronted with potentially triggering movement from site loading but then surprise them with parallax while scrolling or some animation after sending an email.
-Also those guidelines get constantly refined, but it takes years for new insights to reach a final version of the guidelines. Vestibular disorders/motion sickness and their triggers in regards to web design are just starting to gain visibility. Better to make the website as user friendly as possible ahead of time.
-Last but not least be aware that the five-second-rule in 2.2.2 has a length that was chosen rather arbitrarily. It’s still long enough to tick many peoples’ symptoms.
+#### Note about motion sickness and WCAG:
+Those guidelines define what we understand as passing some accessibility tests or not. Usually level A is understood as “the bare minimum”, AA as “this is what you need to fulfill to be WCAG compliant” and AAA as “the gold standard that is often more of an idea than 100% achievable”. 
+
+We strongly recommend to make sure that your website/app passes the 2.3.3 requirement, even though it is labeled AAA. It doesn’t make sense for us to protect users from potentially triggering movement from site loading, but then surprise them with parallax while scrolling or some animation after sending an email. 
+
+The WCAG get constantly refined, but it takes years for new insights to reach a final version of the guidelines. Vestibular disorders/motion sickness and their triggers in regards to web design are just starting to gain visibility. Better to make the website as user friendly as possible ahead of time. Last but not least: Please be aware that the five-second-rule in 2.2.2 has a length that was chosen rather arbitrarily. It’s still long enough to tick many peoples’ symptoms.
 
 ## Contact
 Please get in touch if you have ideas/websites to share 
