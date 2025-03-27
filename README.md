@@ -1,4 +1,4 @@
-# Resources
+# Resources & Contact
  
 ## Workshop description
 [njan & Lina's Inclusive Motion Design workshop @booster conf 28 March 2025](https://www.boosterconf.no/2025/program/friday/1_short_talks_and_workshops/dreggen_4/let-s-build-web-experiences-that-don-t-make-people-puke/)  
@@ -72,3 +72,19 @@ Those guidelines define what we understand as passing some accessibility tests o
 In this case, we strongly urge you to still make sure that your website/app passes the 2.3.3 requirement, even though it is labeled AAA. One reason is, that it doesn’t make sense for us, to have the user not be confronted with potentially triggering movement from site loading but then surprise them with parallax while scrolling or some animation after sending an email.
 Also those guidelines get constantly refined, but it takes years for new insights to reach a final version of the guidelines. Vestibular disorders/motion sickness and their triggers in regards to web design are just starting to gain visibility. Better to make the website as user friendly as possible ahead of time.
 Last but not least be aware that the five-second-rule in 2.2.2 has a length that was chosen rather arbitrarily. It’s still long enough to tick many peoples’ symptoms.
+
+## Contact
+Please get in touch if you have ideas/websites to share 
+and use the hashtag for the same :)
+
+Also drop us a line if you’d like to continue working on this topic.
+
+### Contact us:
+- Mail: lina.sievering@accenture.com
+- Mastodon: [@njan@chaos.social](https://chaos.social/@njan)
+ 
+### Hashtag: 
+`#PukeLessWeb`
+
+
+
