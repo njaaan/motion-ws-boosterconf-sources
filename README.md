@@ -55,8 +55,7 @@
 > there is a mechanism for the user to pause, stop, or hide it unless the movement, blinking, or scrolling is part of an activity where it is essential [...]".
 
 Our opinion:  
-→ Allow the users to pause/stop/hide every motion animation or blinking that lasts more than 5 seconds - unless it is essential. 
-Exceptions are made for full-page loading animations.
+→ Allow the users to pause/stop/hide every motion animation or blinking that lasts more than 5 seconds – unless it is essential. Exception: full-page loading animations.
 
 - [2.3.3: Animation from Interactions (AAA)](https://www.w3.org/WAI/WCAG21/Understanding/animation-from-interactions)
 >“Motion animation triggered by interaction can be disabled, unless the animation is essential to the functionality or the information being conveyed.”
