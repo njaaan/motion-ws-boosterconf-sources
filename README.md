@@ -34,7 +34,7 @@
 [Archive.org-Link](https://web.archive.org/web/20250217132155/https://www.intuit.com/blog/social-responsibility/from-breakdancer-to-accessibility-champion-a-design-for-motion-sensitivity-story/)
 
 ### Quotes from slides came from those great AXE-Con-Talks
-- [Foster, Seneca; Sharma, Ajay: “The Usability Gap: Why Accessibility does not always mean usable” (2025)](https://www.youtube.com/watch?v=XSPxwOqQGZ4)
+- [Foster, Seneca; Sharma, Ajay: “The Usability Gap: Why Accessibility does not always mean usable” (2025)](https://www.youtube.com/watch?v=I4xT6amE8L0)
 
 - [Sumner, Melanie: “But why??!” (2025)](https://www.youtube.com/watch?v=PooU_zo3sqE) 
 
