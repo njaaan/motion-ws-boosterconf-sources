@@ -4,6 +4,8 @@
 [njan & Lina's Inclusive Motion Design workshop @booster conf 28 March 2025](https://www.boosterconf.no/2025/program/friday/1_short_talks_and_workshops/dreggen_4/let-s-build-web-experiences-that-don-t-make-people-puke/)  
 [Archive.org-Link](https://web.archive.org/web/20250217111130/https://www.boosterconf.no/2025/program/friday/1_short_talks_and_workshops/dreggen_4/let-s-build-web-experiences-that-don-t-make-people-puke/)
 
+### Helpful link(s)
+[Finding the reduce-motion-settings in your OS/browser](reduce-motion-settings.md)
 
 ## External resources
 
